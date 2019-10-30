@@ -1,3 +1,7 @@
+2.5.0 (2019-10-30)
+===========
+* Added feature for navigation to parent node
+
 2.2.0 (2016-02-29)
 ===========
 * Upgraded dependency versions
